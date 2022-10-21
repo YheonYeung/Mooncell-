@@ -1,5 +1,5 @@
 # Mooncell正體中文化
-旨在為Mooncell嘅從者匹配台版進度譯名，並能使用新同文堂擴充匯入.json檔替換顯示。
+旨在為Mooncell嘅從者匹配台版進度譯名，並能使用[url=https://chrome.google.com/webstore/detail/new-tongwentang/ldmgbgaoglmaiblpnphffibpbfchjaeg]新同文堂[/url]擴充匯入.json檔替換顯示。
 會替換咗日文中嘅殘體字，佢就咁冇撚辦法。
 https://chrome.google.com/webstore/detail/new-tongwentang/ldmgbgaoglmaiblpnphffibpbfchjaeg
 
