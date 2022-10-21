@@ -8,7 +8,7 @@ https://chrome.google.com/webstore/detail/new-tongwentang/ldmgbgaoglmaiblpnphffi
 
 跟住下載.json檔https://github.com/YheonYeung/Mooncell_Traditional-Chinese/releases/download/Download/FGO.json
 
-再打開新同文堂匯入
+再打開新同文堂匯入。
 
 |1|· => ・|
 |:----|:----|
