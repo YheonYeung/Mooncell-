@@ -3,7 +3,12 @@
 
 會替換咗日文中嘅殘體字，佢就咁冇撚辦法。
 
+首先安裝Chrome擴充——新同文堂
 https://chrome.google.com/webstore/detail/new-tongwentang/ldmgbgaoglmaiblpnphffibpbfchjaeg
+
+跟住下載.json檔https://github.com/YheonYeung/Mooncell_Traditional-Chinese/releases/download/Download/FGO.json
+
+再打開新同文堂匯入
 
 |1|· => ・|
 |:----|:----|
