@@ -10,10 +10,7 @@ https://chrome.google.com/webstore/detail/new-tongwentang/ldmgbgaoglmaiblpnphffi
 
 再打開新同文堂匯入.json檔，用得。
 
-——————————————————————————————————————————————————————
-
 詞彙示例
-
 
 |#|詞彙|
 |:----|:----|
