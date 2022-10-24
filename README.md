@@ -14,9 +14,8 @@ https://chrome.google.com/webstore/detail/new-tongwentang/ldmgbgaoglmaiblpnphffi
 
 詞條示例
 
-![image](https://user-images.githubusercontent.com/63342274/197173295-c3d1025e-8439-475f-bb92-600e0bfa2d58.png)
 
-|#|詞彙|
+|#|詞彙|![image](https://user-images.githubusercontent.com/63342274/197173295-c3d1025e-8439-475f-bb92-600e0bfa2d58.png)|
 |:----|:----|
 |1|· => ・|
 |2|〔圣诞〕 => 〔Santa〕|
