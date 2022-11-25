@@ -126,5 +126,3 @@ https://chrome.google.com/webstore/detail/new-tongwentang/ldmgbgaoglmaiblpnphffi
 |110|音频 => 音訊|
 |111|骑士迪昂 => 騎士德翁|
 |112|黑森 => 海森|
-
-![image](https://user-images.githubusercontent.com/63342274/197173295-c3d1025e-8439-475f-bb92-600e0bfa2d58.png)
